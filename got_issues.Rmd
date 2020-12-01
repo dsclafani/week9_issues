@@ -20,7 +20,7 @@ summary(storms) #fixed issue 1
 
 Look at the variable names: 
 ```{r}
-Names(storms)
+names(storms) #names function fixed
 ```
 
 ## Step 2: Exploratory visualization
